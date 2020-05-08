@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Sid\source\repos\programms\programms\func.h(34,6): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Sid\source\repos\programms\programms\func.h(70,15): warning C4101: size: неиспользованная локальная переменная
+C:\Users\Sid\source\repos\programms\programms\func.h(94,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sid\source\repos\programms\programms\func.h(99,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sid\source\repos\programms\programms\func.h(117,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sid\source\repos\programms\programms\func.h(121,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sid\source\repos\programms\programms\func.h(139,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sid\source\repos\programms\programms\main.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  programms.vcxproj -> C:\Users\Sid\source\repos\programms\Debug\programms.exe

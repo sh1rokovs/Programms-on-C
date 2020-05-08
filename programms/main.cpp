@@ -12,4 +12,7 @@ void main()
 	cout << "---------" << endl;
 	random_sim();
 	system("pause");
+	chisla_num();
+	chisla_nml();
+	chisla_msl();
 }
